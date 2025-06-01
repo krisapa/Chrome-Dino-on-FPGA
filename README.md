@@ -1,5 +1,6 @@
 # Chrome Dino FPGA
 
+https://github.com/user-attachments/assets/b39998a3-acd0-43fd-8543-f5f1fd47a893
 
 
 A full hardware recreation of the Chrome dino game, built as my final project for **Digital Logic & Computer Design** at UNC-CH.
