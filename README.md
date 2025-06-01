@@ -2,20 +2,19 @@
 
 https://github.com/user-attachments/assets/b39998a3-acd0-43fd-8543-f5f1fd47a893
 
-
-A full hardware recreation of the Chrome dino game, built as my final project for **Digital Logic & Computer Design** at UNC-CH.
-The game runs on a MIPS CPU we coded from scratch in SystemVerilog, synthesized to a **Digilent Nexys A7 (Artix-7)** board.
+A full hardware recreation of the Chrome dino game, built as my final project for Digital Logic & Computer Design at UNC-CH.
+The game runs on a MIPS CPU we coded from scratch in SystemVerilog, synthesized to a Digilent Nexys A7 (Artix-7) board.
 The game uses keyboard input, VGA output, and simple PWM audio.
 
 
 ---
 
-## Highlights 🚀
-- **MIPS CPU** written in SystemVerilog  
-- **Game logic written in MIPS assembly** (with a desktop C prototype for testing)  
-- **VGA @ 640 × 480** with hardware sprite blitting 
-- PS/2 **keyboard controls** (space/↑ to jump, ↓ to duck)  
-- Simple **PWM audio** for jump / collision sounds  
+## Cool Stuff
+- MIPS CPU written in SystemVerilog  
+  *Game logic written in MIPS assembly (with a desktop C prototype for testing)  
+- VGA @ 640 × 480 with hardware sprite blitting 
+- PS/2 keyboard controls (space/↑ to jump, ↓ to duck)  
+- Simple PWM audio for jump / collision sounds  
 
 ---
 
