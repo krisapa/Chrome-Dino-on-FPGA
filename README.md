@@ -11,7 +11,7 @@ The game uses keyboard input, VGA output, and simple PWM audio.
 
 ## Cool Stuff
 - MIPS CPU written in SystemVerilog  
-  *Game logic written in MIPS assembly (with a desktop C prototype for testing)  
+- Game logic written in MIPS assembly (with a desktop C prototype)  
 - VGA @ 640 × 480 with hardware sprite blitting 
 - PS/2 keyboard controls (space/↑ to jump, ↓ to duck)  
 - Simple PWM audio for jump / collision sounds  
